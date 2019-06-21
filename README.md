@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
+## Prerequisites
+- Standard Angular 7 tooling setup, editor of your choice.
+
 ## Running The App
 
 - Download or clone this repo.
