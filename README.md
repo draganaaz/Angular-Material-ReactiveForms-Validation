@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
+## Blog Post
+[https://oceanware.wordpress.com/2019/06/21/angular-angular-material-reactive-forms-validation](https://oceanware.wordpress.com/2019/06/21/angular-angular-material-reactive-forms-validation)
+
+## YouTube Video
+[https://www.youtube.com/watch?v=bitHalk1Ls0&feature=youtu.be](https://www.youtube.com/watch?v=bitHalk1Ls0&feature=youtu.be)
+
 ## Prerequisites
 - Standard Angular 7 tooling setup, editor of your choice.
 
