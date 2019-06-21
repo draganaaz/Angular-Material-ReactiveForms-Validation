@@ -1,15 +1,15 @@
 {
   "name": "ng-material-validation",
-  "description": "Sequence game for one, two, or three players.",
+  "description": "Application demonstrates using Angular, Angular Material, Reactive Forms Validation",
   "author": "Karl Shifflett",
   "version": "1.0.0",
-  "homepage": "https://github.com/Oceanware/Angular-Azure-SignalR-CustomAuth/blob/master/README.md",
+  "homepage": "https://github.com/Oceanware/Angular-Material-ReactiveForms-Validation/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oceanware/Angular-Azure-SignalR-CustomAuth"
+    "url": "https://github.com/Oceanware/Angular-Material-ReactiveForms-Validation"
   },
   "bugs": {
-    "url": "https://github.com/Oceanware/Angular-Azure-SignalR-CustomAuth/issues"
+    "url": "https://github.com/Oceanware/Angular-Material-ReactiveForms-Validation/issues"
   },
   "scripts": {
     "ng": "ng",
