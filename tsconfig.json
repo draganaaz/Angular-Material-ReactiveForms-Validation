@@ -2,7 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "strict": true,
-    "noUnusedLocals": false,    
+    "noUnusedLocals": true,    
     "removeComments": true,
     "noImplicitReturns": true,
     "noImplicitAny": true,
