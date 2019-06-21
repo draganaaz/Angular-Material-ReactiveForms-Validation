@@ -1,10 +1,18 @@
-# NgMaterialValidation
+# Angular, Angular Material, Reactive Forms Validation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
-## Development server
+## Running The App
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Download or clone this repo.
+
+- Open a terminal window at the root folder and run the following command:
+```shell
+npm install
+
+npm start
+```
+Running `npm start` will open your default browser to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
